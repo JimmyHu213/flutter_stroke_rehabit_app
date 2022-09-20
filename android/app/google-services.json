@@ -1,0 +1,119 @@
+{
+  "project_info": {
+    "project_number": "550474213069",
+    "firebase_url": "https://kit721-3da48-default-rtdb.firebaseio.com",
+    "project_id": "kit721-3da48",
+    "storage_bucket": "kit721-3da48.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:550474213069:android:94c4268f2078fb22826b84",
+        "android_client_info": {
+          "package_name": "au.edu.utas.jiemingh.qlick"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "550474213069-r9s245mattqlquoj6o617ab62t5u1cva.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAgRGWFR8X1wrpXlQX3vq1PIeWYS-cDwPQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "550474213069-r9s245mattqlquoj6o617ab62t5u1cva.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "550474213069-2nbmiaujtqls34mbiaalrpcee1ltj1ln.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "au.edu.utas.kit305.QLick"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:550474213069:android:7d061218c2b300e8826b84",
+        "android_client_info": {
+          "package_name": "au.edu.utas.kit305.tutorial05"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "550474213069-r9s245mattqlquoj6o617ab62t5u1cva.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAgRGWFR8X1wrpXlQX3vq1PIeWYS-cDwPQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "550474213069-r9s245mattqlquoj6o617ab62t5u1cva.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "550474213069-2nbmiaujtqls34mbiaalrpcee1ltj1ln.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "au.edu.utas.kit305.QLick"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:550474213069:android:c80af222e696ce77826b84",
+        "android_client_info": {
+          "package_name": "com.example.flutter_tutorial_3"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "550474213069-r9s245mattqlquoj6o617ab62t5u1cva.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAgRGWFR8X1wrpXlQX3vq1PIeWYS-cDwPQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "550474213069-r9s245mattqlquoj6o617ab62t5u1cva.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "550474213069-2nbmiaujtqls34mbiaalrpcee1ltj1ln.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "au.edu.utas.kit305.QLick"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
